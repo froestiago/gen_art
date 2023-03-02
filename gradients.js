@@ -18,8 +18,9 @@ function setup() {
   
   colorGrid(red, 0);
   colorGrid(yellow, 90);
-  colorGrid(blue, 270);
-
+//   colorGrid(blue, 270);
+  // yellow.fill(100);
+  // yellow.ellipse(0, 0, 200, 200);
   drawRiso();
 }
 
